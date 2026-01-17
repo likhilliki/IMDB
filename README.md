@@ -38,4 +38,3 @@ This project performs exploratory data analysis on real IMDB movie ratings data 
 
 ---
 
-## 📁 Project Structure
